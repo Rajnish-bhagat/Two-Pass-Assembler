@@ -1,0 +1,10 @@
+Empty Label Warning at line number: 3
+Duplicate Label Definition at line number: 4
+No such Label at line number: 5
+Not a Number at line number: 6
+Missing Operand at line number: 7
+Unexpected Operand at line number: 8
+Extra on End of Line at line number: 9
+Bogus Label Name at line number: 10
+Bogus Mnemonic at line number: 11
+Bogus Mnemonic at line number: 12
